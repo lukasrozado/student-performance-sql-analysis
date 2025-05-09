@@ -47,7 +47,6 @@ We aim to explore how various lifestyle and academic habits impact students’ a
 ## 🛠️ Technologies
 
 - SQL (with window functions and CASE expressions)
-- Python (for DataFrame handling and visualization)
 - Jupyter Notebook / SQL IDE
 
 ## 📂 File Structure
